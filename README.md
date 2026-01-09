@@ -1,6 +1,6 @@
 # Remote Job Market Intelligence using Ethical Web Scraping
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing the **remote job market** by ethically scraping job listings and extracting meaningful insights.  
 The goal is to understand hiring trends, in-demand skills, job locations, and company patterns for remote roles.
 
@@ -8,7 +8,7 @@ The analysis helps job seekers, analysts, and recruiters make **data-driven deci
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Collect remote job listings using **ethical web scraping**
 - Clean and preprocess raw job data
 - Perform **Exploratory Data Analysis (EDA)**
@@ -20,7 +20,7 @@ The analysis helps job seekers, analysts, and recruiters make **data-driven deci
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - **Source:** Ethically scraped from public job listing platforms
 - **Type:** Structured job posting data
 - **Key Fields:**
@@ -31,11 +31,11 @@ The analysis helps job seekers, analysts, and recruiters make **data-driven deci
   - Skills / Tags
   - Posting Date
 
-> ⚠️ Note: No private or restricted data was accessed. Scraping followed ethical and legal guidelines.
+>  Note: No private or restricted data was accessed. Scraping followed ethical and legal guidelines.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python
 - Jupyter Notebook
 - Pandas
@@ -46,7 +46,7 @@ The analysis helps job seekers, analysts, and recruiters make **data-driven deci
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 - Data cleaning and handling missing values
 - Duplicate removal
 - Feature extraction from job descriptions
@@ -58,7 +58,7 @@ The analysis helps job seekers, analysts, and recruiters make **data-driven deci
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Certain skills appear consistently across remote roles
 - Specific job categories dominate the remote market
 - A small number of companies contribute a large share of listings
@@ -66,4 +66,4 @@ The analysis helps job seekers, analysts, and recruiters make **data-driven deci
 
 ---
 
-## 📁 Project Structure
+
